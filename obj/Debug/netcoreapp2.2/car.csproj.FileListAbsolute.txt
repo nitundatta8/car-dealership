@@ -1,0 +1,10 @@
+C:\dev-project\epicodus_code\week-8C#\Car\obj\Debug\netcoreapp2.2\car.csprojAssemblyReference.cache
+C:\dev-project\epicodus_code\week-8C#\Car\obj\Debug\netcoreapp2.2\car.AssemblyInfoInputs.cache
+C:\dev-project\epicodus_code\week-8C#\Car\obj\Debug\netcoreapp2.2\car.AssemblyInfo.cs
+C:\dev-project\epicodus_code\week-8C#\Car\bin\Debug\netcoreapp2.2\car.deps.json
+C:\dev-project\epicodus_code\week-8C#\Car\bin\Debug\netcoreapp2.2\car.runtimeconfig.json
+C:\dev-project\epicodus_code\week-8C#\Car\bin\Debug\netcoreapp2.2\car.runtimeconfig.dev.json
+C:\dev-project\epicodus_code\week-8C#\Car\bin\Debug\netcoreapp2.2\car.dll
+C:\dev-project\epicodus_code\week-8C#\Car\bin\Debug\netcoreapp2.2\car.pdb
+C:\dev-project\epicodus_code\week-8C#\Car\obj\Debug\netcoreapp2.2\car.dll
+C:\dev-project\epicodus_code\week-8C#\Car\obj\Debug\netcoreapp2.2\car.pdb
